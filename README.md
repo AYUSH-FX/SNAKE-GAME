@@ -24,17 +24,17 @@ Ensure that *Python 3.x* is installed on your system. The Turtle module is inclu
 
 1. Clone this repository:
    ```bash
-   https://github.com/AYUSH-FX/snake-game.git```
+   https://github.com/AYUSH-FX/snake-game.git
    
 
 2. Navigate to the project directory:
    ```bash
-   cd snake game```
+   cd snake game
    
 
 3. Run the game:
    ```bash
-   python main.py```
+   python main.py
    
 
 ### How to Play
@@ -51,15 +51,15 @@ Contributions are welcome! If you’d like to improve this project, feel free to
 
 1. Fork the repository.
 2. Create a new branch:
-   bash
+   ```bash
    git checkout -b feature-branch
    
 3. Commit your changes:
-   bash
+   ```bash
    git commit -m "Add feature"
    
 4. Push the branch:
-   bash
+   ```bash
    git push origin feature-branch
    
 5. Open a pull request for review.
