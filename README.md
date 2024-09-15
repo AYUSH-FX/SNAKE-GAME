@@ -23,18 +23,18 @@ Ensure that *Python 3.x* is installed on your system. The Turtle module is inclu
 ### Steps to Run the Game
 
 1. Clone this repository:
-   bash
-   https://github.com/AYUSH-FX/snake-game.git
+   '''bash
+   https://github.com/AYUSH-FX/snake-game.git'''
    
 
 2. Navigate to the project directory:
-   bash
-   cd snake game
+   '''bash
+   cd snake game'''
    
 
 3. Run the game:
-   bash
-   python main.py
+   '''bash
+   python main.py'''
    
 
 ### How to Play
